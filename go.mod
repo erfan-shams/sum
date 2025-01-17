@@ -1,3 +1,3 @@
-module github.com/erfan-shams/add
+module add
 
 go 1.23.5
