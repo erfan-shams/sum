@@ -1,5 +1,5 @@
 package sum
 
-func add(a int,b int,c int)int{
+func Add_test(a int,b int,c int)int{
 	return a+b+c
 }
